@@ -11,12 +11,12 @@
 ---
 ## Projects
 ### Omnifood
-- [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](https://omnifood.dev/)
+- [Project-code](Project/Omnifood/) <br>
+- [Live Demo](https://islam-abdel-halem.github.io/Omnifood-project/)
 ---
 ## Code
 - [Code](Code)
 ---
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![UC-135cdca4-c16e-47eb-b776-207c17ec51bf(6)](https://user-images.githubusercontent.com/102685868/214854912-77075e83-83d4-41b9-8be4-390192602776.jpg)
