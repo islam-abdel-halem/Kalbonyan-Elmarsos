@@ -51,9 +51,9 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # LEARN JAVASCRIPT
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![10%](https://progress-bar.dev/10/?title=Done)
 
-- [ ] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ]()
+- [ ] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ](02-Udemy/-02-JavaScript-Maximilian)
 - [ ] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript]()
       <br />
 
