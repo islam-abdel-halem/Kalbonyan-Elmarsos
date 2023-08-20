@@ -25,7 +25,7 @@ function writeToLog(
   };
   logEntries.push(logEntry);
   console.log(logEntries);
-}
+} 
 
 function add() {
   const enteredNumber = getUserNumberInput();
@@ -33,7 +33,7 @@ function add() {
   currentResult = currentResult + enteredNumber;
   createAndWriteOutput("+", initialRsult, enteredNumber);
   writeToLog("ADD", initialRsult, enteredNumber, currentResult);
-}
+} 
 
 function subtract() {
   const enteredNumber = getUserNumberInput();
